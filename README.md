@@ -1,0 +1,11 @@
+graph TD;
+    A[Dried Seaweed (2 g)] --> B[Dissolve in 40 ml Distilled Water]
+    B --> C[Incubate at 4°C for 16 hours]
+    C --> D[Centrifuge at 9000 rpm for 20 minutes at 4°C]
+    D --> E[Collect Pellets]
+    E --> F[Suspend in 0.1 M HCl or 0.1 M NaOH (solid:solvent = 1:15)]
+    F --> G[Sonicate with Probe at 68.4 μm amplitude for 10 minutes]
+    G --> H[Centrifuge at 9000 rpm for 20 minutes at 4°C]
+    H --> I[Collect Supernatant and Pellets]
+    I --> J[Dry Pellets at 40°C for 18 hours]
+    J --> K[Analyze Protein Content in Supernatant]
